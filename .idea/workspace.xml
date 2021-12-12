@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c374a42e-9939-4041-bff0-cb6ccf6a90d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/tree/No116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/tree/No617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No542.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/No733.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/tree/No116.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/tree/No116.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/tree/Node.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JUnit.No116.test">
+  <component name="RunManager" selected="JUnit.No542.test">
     <configuration name="No116.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -133,16 +133,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No557.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="No542.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.linklist.*" />
+          <option name="PATTERN" value="com.baoyun.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.No557" />
+      <option name="PACKAGE_NAME" value="com.baoyun.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.No542" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -183,18 +183,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.No3.test" />
-      <item itemvalue="JUnit.No557.test" />
       <item itemvalue="JUnit.No567.test" />
       <item itemvalue="JUnit.No733.test" />
       <item itemvalue="JUnit.No116.test" />
+      <item itemvalue="JUnit.No542.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.No542.test" />
         <item itemvalue="JUnit.No116.test" />
         <item itemvalue="JUnit.No733.test" />
         <item itemvalue="JUnit.No567.test" />
         <item itemvalue="JUnit.No3.test" />
-        <item itemvalue="JUnit.No557.test" />
       </list>
     </recent_temporary>
   </component>
@@ -262,6 +262,11 @@
           <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/tree/No116.java</url>
           <line>50</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/No542.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
