@@ -1,4 +1,6 @@
-package com.baoyun.leetcode.linklist;
+package com.baoyun.leetcode.twopointer;
+
+import com.baoyun.leetcode.common.ListNode;
 
 /**
  * Given the head of a singly linked list, return the middle node of the linked list.
@@ -27,23 +29,6 @@ package com.baoyun.leetcode.linklist;
  * 1 <= Node.val <= 100
  */
 
-  class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-
-}
 public class No876 {
     public ListNode middleNode(ListNode head) {
         if(head.next == null){

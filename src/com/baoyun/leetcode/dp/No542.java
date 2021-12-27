@@ -1,4 +1,4 @@
-package com.baoyun.leetcode;
+package com.baoyun.leetcode.dp;
 
 import org.junit.Test;
 

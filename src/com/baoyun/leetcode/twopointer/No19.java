@@ -1,5 +1,7 @@
-package com.baoyun.leetcode.linklist;
+package com.baoyun.leetcode.twopointer;
 
+
+import com.baoyun.leetcode.common.ListNode;
 
 /**
  * Given the head of a linked list, remove the nth node from the end of the list and return its head.
@@ -51,3 +53,5 @@ public class No19 {
 
     }
 }
+
+
