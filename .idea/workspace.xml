@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c374a42e-9939-4041-bff0-cb6ccf6a90d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/common/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No784.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/dp/No70.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/No542.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/bfs_dfs/No994.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/bfs_dfs/No994.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/linklist/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/linklist/No19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/linklist/No876.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/baoyun/leetcode/No542.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/dp/No542.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/baoyun/leetcode/linklist/No19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/twopointer/No19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/baoyun/leetcode/linklist/No876.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/twopointer/No876.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/No206.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/No206.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/baoyun/leetcode/No206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No206.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,23 +103,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JUnit.No206.test">
-    <configuration name="No116.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.baoyun.leetcode.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.baoyun.leetcode.tree" />
-      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.tree.No116" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.No70.test">
     <configuration name="No206.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -141,7 +120,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No542.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="No46.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baoyun.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baoyun.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.No46" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No70.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -150,39 +145,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.baoyun.leetcode.dp" />
-      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.dp.No542" />
+      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.dp.No70" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No733.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="No77.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baoyun.leetcode.bfs_dfs.*" />
+          <option name="PATTERN" value="com.baoyun.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.baoyun.leetcode.bfs_dfs" />
-      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.bfs_dfs.No733" />
+      <option name="PACKAGE_NAME" value="com.baoyun.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.No77" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No994.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="No784.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baoyun.leetcode.bfs_dfs.*" />
+          <option name="PATTERN" value="com.baoyun.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.baoyun.leetcode.bfs_dfs" />
-      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.bfs_dfs.No994" />
+      <option name="PACKAGE_NAME" value="com.baoyun.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.baoyun.leetcode.No784" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -190,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.No733.test" />
-      <item itemvalue="JUnit.No116.test" />
-      <item itemvalue="JUnit.No542.test" />
-      <item itemvalue="JUnit.No994.test" />
       <item itemvalue="JUnit.No206.test" />
+      <item itemvalue="JUnit.No77.test" />
+      <item itemvalue="JUnit.No784.test" />
+      <item itemvalue="JUnit.No46.test" />
+      <item itemvalue="JUnit.No70.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.No70.test" />
+        <item itemvalue="JUnit.No46.test" />
+        <item itemvalue="JUnit.No784.test" />
+        <item itemvalue="JUnit.No77.test" />
         <item itemvalue="JUnit.No206.test" />
-        <item itemvalue="JUnit.No994.test" />
-        <item itemvalue="JUnit.No542.test" />
-        <item itemvalue="JUnit.No116.test" />
-        <item itemvalue="JUnit.No733.test" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +222,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -285,6 +281,41 @@
           <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/bfs_dfs/No994.java</url>
           <line>56</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/No77.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/No784.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/No784.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/No46.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/No46.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/No46.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/baoyun/leetcode/dp/No70.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

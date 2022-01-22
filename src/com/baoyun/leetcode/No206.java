@@ -52,6 +52,7 @@ public class No206 {
     }
 
 
+    //recursive
     public ListNode reverseList2(ListNode head){
         if(head == null || head.next == null){
             return head;
