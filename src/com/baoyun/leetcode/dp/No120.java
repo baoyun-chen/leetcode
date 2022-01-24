@@ -96,10 +96,10 @@ public class No120 {
      * @return
      */
     public int minimumTotal2(List<List<Integer>> triangle) {
-        int rowSize = triangle.size();
-
-        for(int r = rowSize-2; r >= 0; r--){
-            for(int i = 0; i < triangle.get(r).size(); i++){
+        int secondLastLayer = triangle.size()-2;
+        for(int r = secondLastLayer; r >= 0; r--){
+            int rowSize = triangle.get(r).size();
+            for(int i = 0; i < rowSize; i++){
                 int min = Math.min(triangle.get(r+1).get(i), triangle.get(r+1).get(i+1));
                 triangle.get(r).set(i, min + triangle.get(r).get(i));
             }
