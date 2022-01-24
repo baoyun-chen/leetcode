@@ -115,6 +115,14 @@ public class No46 {
 
 
 
+    public List<List<Integer>> permute3(int[] nums) {
+        boolean[] used = new boolean[nums.length];
+       //return permute3Helper(nums, used,0);
+
+        return null;
+    }
+
+
     @Test
     public void test(){
         permute2(new int[]{1,2,3});

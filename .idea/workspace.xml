@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c374a42e-9939-4041-bff0-cb6ccf6a90d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No784.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/dp/No70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/dp/No120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/dp/No198.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/No206.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/baoyun/leetcode/No206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/baoyun/leetcode/No206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/baoyun/leetcode/No46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baoyun/leetcode/No46.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
