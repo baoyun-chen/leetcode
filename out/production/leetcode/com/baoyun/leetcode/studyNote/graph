@@ -1,0 +1,26 @@
+0. Disjoint Set
+    0.1 Union Find
+1. Minimum Spanning Tree
+    1.1 Cut Property
+    1.2 Kruskal’s Algorithm
+2. DFS
+    2.1 Used in finding all the path
+    2.2 Used in travel all the nodes
+3. BFS
+    3.1 Used in finding the shortest path (unweighted)
+    3.2 Used in travel all the nodes
+4. Single Source Shortest Path (with weight)
+    4.1 Dijkstra’s algorithm (only positive weight)
+    4.2 Bellman Ford Algorithm (with negative weight)
+        4.2.1 with not cycle and positive cycle -> the shortest path will be at most n-1 edge
+                with negative cycle -> no shortest path
+                detect negative cycle
+        4.2.2 improvement
+    4.3 SPFA Algorithm
+5. Kahn's Algorithm / Topological sorting
+
+
+
+
+
+

@@ -69,9 +69,11 @@ public class No567 {
 
     @Test
     public void test(){
-        String s1 ="hello";
-        String s2 ="ooolleoooleh";
-        checkInclusion(s1,s2);
+       // String s1 ="hello";
+        //String s2 ="ooolleoooleh";
+        //checkInclusion(s1,s2);
 
+        int n = 9&1;
+        int j = 28&1;
     }
 }
