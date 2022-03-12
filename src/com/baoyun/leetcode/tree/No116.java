@@ -101,6 +101,17 @@ public class No116 {
 
     }
 
+    public Node connect3(Node root) {
+        if(root != null && root.left != null && root.right != null){
+            root.left.next = root.right;
+            root.right.next = root.next == null? null: root.next.left;
+            connect3(root.left);
+            connect3(root.right);
+        }
+
+        return root;
+    }
+
 
     @Test
     public void test(){
